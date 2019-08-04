@@ -13,8 +13,6 @@ Github link: https://github.com/yvsajay/Recommendations-with-IBM-Watson-
 - [Project Motivation](#project-motivation)
 - [Libraries used:](#libraries-used-)
 - [The Process](#the-process)
-- [The Model](#the-model)
-- [The Web app](#the-web-app)
 - [Acknowledgements](#acknowledgements)
 
 
